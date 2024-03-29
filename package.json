@@ -2,7 +2,7 @@
   "name": "api",
   "version": "1.0.0",
   "description": "Its a Api Example",
-  "main": "Server.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon"
   },
