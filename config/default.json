@@ -1,0 +1,5 @@
+{
+    "mogooseURL":"mongodb+srv://api:api12345@api.bjh32di.mongodb.net/api",
+    "jwtSecret":"My_Name_AJ"
+}
+
